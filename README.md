@@ -37,15 +37,28 @@ java Main
 ---
 
 ## 📸 Preview
-╔════════════════════════════════╗
-║           CALCULATOR           ║
-╚════════════════════════════════╝
-[+]  Addition
-[-]  Subtraction
-[*]  Multiplication
-[/]  Division
-[E]  Exit
 
+```
++----------------------------------+
+|           CALCULATOR             |
++----------------------------------+
+
+  [+]  Addition
+  [-]  Subtraction
+  [*]  Multiplication
+  [/]  Division
+  [E]  Exit
+----------------------------------
+
+  Enter first number: 10
+  Operator: +
+  Number: 5
+  ----------------------------------
+  Partial result: 15.00
+
+==================================
+  Final result: 15.00
+==================================
 ---
 
 ## 🛠️ Technologies
