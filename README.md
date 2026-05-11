@@ -56,4 +56,3 @@ java Main
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
-Os badges são gerados pelo site shields.io — você passa os parâmetros pela URL e ele gera automaticamente. É bem usado em projetos open source!
